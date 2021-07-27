@@ -1,6 +1,6 @@
 ## Oi gente, aqui é a Sú 👋
 - Meu objetivo é não parar de estudar nunca 📚
-- Sou Brasileira de Brasília 🇧🇷
+- Sou Brasileira de Brasília 🇧🇷 indo morar em SP
 - 🌱 Estou atualmente estudando em Start-Tech programa de bolsa da Gama Academy 📚
 - Apaixonada por minha familia, por cantar, por confeitar e por codar 💻 🍫 🧑‍🎤 👪
 
