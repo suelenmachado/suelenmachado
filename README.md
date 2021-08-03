@@ -12,4 +12,8 @@
 </a> 
 
 ###  Habilidades em desenvolvimento
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suelenmachado&layout=compact)](https://github.com/suelenmachado/github-readme-stats)
+<div>
+  <a href="https://github.com/suelenmachado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suelenmachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suelenmachado&layout=compact&langs_count=7&theme=dracula"/>
+</div>
