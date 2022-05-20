@@ -1,7 +1,7 @@
 ## Oi gente, aqui é a Sú 👋
 - Meu objetivo é não parar de aprender nunca 📚
-- Sou Brasileira de Brasília 🇧🇷 indo morar em SP
-- 🌱 Estou atualmente estudando no Bootcamp Eduzz Fullstack Developer na DIO 📚
+- Sou Brasileira de Brasília 🇧🇷 morado em SP
+- 🌱 Professora de desenvolvimento de apps e jogos - Byju's  📚
 - Apaixonada por minha familia, por cantar, por confeitar e por codar 💻 🍫 🧑‍🎤 👪
 
 
